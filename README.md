@@ -1,4 +1,14 @@
-# Olá, eu sou Lucas 👋
+# Olá, eu sou <span style="color: #ff7f50; animation: colorChange 2s infinite;">Lucas</span> 👋
+
+<style>
+  @keyframes colorChange {
+    0% { color: #ff7f50; } /* Coral */
+    25% { color: #6a5acd; } /* SlateBlue */
+    50% { color: #32cd32; } /* LimeGreen */
+    75% { color: #ff4500; } /* OrangeRed */
+    100% { color: #ff7f50; } /* Volta ao Coral */
+  }
+</style>
 
 ## 🛠️ Linguagens e Ferramentas
 Aqui estão as linguagens que eu mais uso:
