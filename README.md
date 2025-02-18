@@ -1,8 +1,9 @@
-# Olá, eu sou <span style="color: #ff7f50; animation: colorChange 2s infinite;">Lucas</span> 👋
+# Olá, eu sou <span style="color: #ffffff; animation: colorChange 2s infinite;">Lucas</span> 👋
 
 <style>
   @keyframes colorChange {
-    0% { color: #ff7f50; } /* Coral */
+    0% { color: #ffffff; } /* Branco */
+    100% { color: #ffffff; } /* Mantém branco */
   }
 </style>
 
