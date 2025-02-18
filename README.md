@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou Lucas👋
 
-<!--
-**lucaszanfa/lucaszanfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Linguagens e Ferramentas
+Aqui estão as linguagens que eu mais uso:
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszanfa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+Aqui estão algumas estatísticas do meu perfil:
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaszanfa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Como me encontrar
+- [Instagram](https://www.instagram.com/lucasfzanfa/)
+- [Email](lucasfzanfa@gmail.com)
