@@ -3,7 +3,7 @@
 ## 🛠️ Linguagens e Ferramentas
 Aqui estão as linguagens que eu mais uso:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszanfa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszanfa&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens que eu trabalho:
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
