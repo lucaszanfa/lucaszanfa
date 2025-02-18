@@ -1,15 +1,10 @@
-# Olá, eu sou Lucas👋
+# Olá, eu sou Lucas 👋
 
 ## 🛠️ Linguagens e Ferramentas
 Aqui estão as linguagens que eu mais uso:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszanfa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📊 Estatísticas do GitHub
-Aqui estão algumas estatísticas do meu perfil:
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaszanfa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Como me encontrar
-- [Instagram](https://www.instagram.com/lucasfzanfa/)
-- [Email](lucasfzanfa@gmail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasfzanfa/)
+- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfzanfa@gmail.com)
