@@ -1,4 +1,6 @@
-# 👋 Olá, eu sou Lucas!
+## 👋 <span align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Ol%C3%A1%2C+eu+sou+Lucas!" alt="Typing SVG" />
+</span>
 
 ---
 
@@ -26,3 +28,10 @@
 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasfzanfa/)
 - [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfzanfa@gmail.com)
+
+---
+
+## 🔥 Visitantes
+
+![Visitor Count](https://komarev.com/ghpvc/?username=lucaszanfa&color=blue&style=for-the-badge)
+
