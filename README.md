@@ -33,5 +33,7 @@
 
 ## 🔥 Visitantes
 
-![Visitor Count](https://komarev.com/ghpvc/?username=lucaszanfa&color=blue&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucaszanfa&color=blue&style=flat-square&label=Visitantes" alt="Visitor Count" />
+</p>
 
