@@ -18,22 +18,3 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaszanfa&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 📫 Contato
-
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasfzanfa/)
-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfzanfa@gmail.com)
-
----
-
-## 🔥 Visitantes
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/lucaszanfa/count.svg" alt="Visitor Count" />
-</p>
-
